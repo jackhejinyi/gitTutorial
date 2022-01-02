@@ -1,2 +1,3 @@
 new content in file1
 conflict sloved
+new content for Github
