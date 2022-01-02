@@ -1,4 +1,2 @@
 new content in file1
-new content in dev branch
-new content in master
-new contnt more in dev branch
+conflict sloved
